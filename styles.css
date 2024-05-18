@@ -38,7 +38,7 @@
 
 #page-content-wrapper {
   max-width: 100%;
-  min-width: none;
+  min-width: 100vw;
   margin-left: 250px;
   transition: all 0.3s ease;
   overflow: auto;
